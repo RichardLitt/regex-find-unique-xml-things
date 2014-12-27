@@ -1,0 +1,15 @@
+{
+  "name": "regex-clean-files",
+  "version": "0.0.0",
+  "description": "A way of cleaning some files",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp index.js"
+  },
+  "author": "Richard Littauer <richard.littauer@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "gulp-regex-replace": "^0.2.3"
+  }
+}
