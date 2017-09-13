@@ -7,3 +7,6 @@ To run:
  * `gulp`
 
 Output for data.txt is build/data.txt.
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/regex-find-unique-xml-things.svg)](https://greenkeeper.io/)
